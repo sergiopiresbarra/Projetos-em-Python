@@ -1,6 +1,2 @@
-msg = 'print function()'
-print(msg)
-print('Python Class')
-
-name = 'sergio pires'
-print('curso de python -', name)
+print(f'variavel global: {var_global}')
+    # print(f'variavel local: {var_local}')
