@@ -1,2 +1,2 @@
 # Projetos-em-Python
-exercícios e etc
+Análises com IA, exercícios e etc
